@@ -1,4 +1,8 @@
 # PCA (Principal Component Analysis) Algorithm
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-yellow?style=for-the-badge&logo=numpy&logoColor=white&color=013243)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F7931E)](https://scikit-learn.org/)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 This repository contains a Python implementation of the Principal Component Analysis (PCA) algorithm. PCA is a dimensionality reduction technique widely used in data analysis and machine learning.
 
